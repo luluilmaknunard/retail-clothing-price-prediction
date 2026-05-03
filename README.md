@@ -162,15 +162,3 @@ SHAP memungkinkan kita melihat *mengapa* model membuat prediksi tertentu. Bebera
 - Label Encoding digunakan sebagai pendekatan sederhana; untuk produksi, **One-Hot Encoding** atau **Target Encoding** bisa dipertimbangkan
 - SHAP dihitung pada 200 sampel test pertama untuk efisiensi komputasi
 
----
-
-## 👤 Author
-
-Dibuat sebagai bagian dari tugas/proyek **SDPI** (Sistem dan Desain Produk Informatika / mata kuliah terkait).
-
----
-
-## 📄 Lisensi
-
-Dataset: [Kaggle License](https://www.kaggle.com/datasets/mrsimple07/clothes-price-prediction)  
-Kode: MIT License
