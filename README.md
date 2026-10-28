@@ -108,28 +108,6 @@ pip install kagglehub pandas numpy matplotlib seaborn scikit-learn xgboost shap
 
 ---
 
-## 🚀 Cara Menjalankan
-
-1. Clone repo ini:
-   ```bash
-   git clone https://github.com/username/retail-pricing.git
-   cd retail-pricing
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Pastikan kamu sudah setup Kaggle API credentials (`~/.kaggle/kaggle.json`)
-
-4. Buka dan jalankan notebook:
-   ```bash
-   jupyter notebook SDPI_3_RetailPricing.ipynb
-   ```
-
----
-
 ## 📈 Hasil & Performa Model
 
 Model dievaluasi menggunakan metrik MAE, RMSE, dan R². Model terbaik dipilih otomatis berdasarkan nilai **R² tertinggi**, kemudian digunakan untuk analisis SHAP dan perbandingan prediksi vs aktual.
